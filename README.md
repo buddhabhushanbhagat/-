@@ -8,7 +8,6 @@ Web Portfolio to showcase projects and skills in better manner.
 * Technical Writing Page
 * Open Source Page
 
-### Hire Me banner
 ### Skills
 * Skills with progress bar
 ### Education
